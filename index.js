@@ -3,4 +3,4 @@ function log(message) {
         console.log(`jd-logger :     ${message}`);
 }
 
-module.exports = log ; ``
+module.exports = log ; 
