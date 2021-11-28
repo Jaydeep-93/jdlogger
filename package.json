@@ -1,5 +1,5 @@
 {
-  "name": "@jd/jd-logger",
+  "name": "@jaydeepkachare/jd-logger",
   "version": "1.0.0",
   "description": "my own personalized logger for private projects ",
   "main": "index.js",
