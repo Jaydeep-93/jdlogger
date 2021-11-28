@@ -1,0 +1,22 @@
+{
+  "name": "jdlogger",
+  "version": "1.0.0",
+  "description": "my own personalized logger for private projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaydeep-93/jdlogger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "JD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaydeep-93/jdlogger/issues"
+  },
+  "homepage": "https://github.com/Jaydeep-93/jdlogger#readme"
+}
