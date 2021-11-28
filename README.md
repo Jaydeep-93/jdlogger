@@ -2,7 +2,7 @@
 
 jd-logger is minimal lightweight replacement for conventional log on console with more enhanced funtionality. 
 
-primarily this logger is desinged to used in personal node and javascript projects. As functionality of logger is repetative and time consuming publishing npm module for use seems more benificial as it reduce development time. 
+primarily this logger is desinged to used in personal node and javascript projects. Publishing npm module for personal project reduce time in development
 
 
 ## Installation
