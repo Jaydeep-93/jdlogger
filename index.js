@@ -1,6 +1,6 @@
 function log(message) {
     if (message) 
-        console.log(`@jdlogger :     ${message}`);
+        console.log(`@jd/jd-logger :     ${message}`);
 }
 
 module.exports = log ; ``
